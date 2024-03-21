@@ -1,4 +1,4 @@
-0Wifite
+Wifite
 ======
 
 This repo is a complete re-write of [`wifite`](https://github.com/BinanjayDwibedee/Wifite.git), a Python script for auditing wireless networks.
